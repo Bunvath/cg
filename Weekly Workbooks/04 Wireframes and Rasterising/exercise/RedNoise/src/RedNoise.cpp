@@ -107,7 +107,7 @@ int main(int argc, char *argv[])
 	SDL_Event event2;
 	while (true)
 	{
-		// We MUST poll for events - otherwise the window will freeze !
+		// We MUST poll for events - otherwise the window will freeze!
 		if (window1.pollForInputEvents(event1)){
 			handleEvent(event1, window1);
 			draw01(window1);
