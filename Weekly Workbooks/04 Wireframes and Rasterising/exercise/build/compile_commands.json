@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/Users/lybunvath/Desktop/Computer graphic/week 01/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.14_1/include/SDL2 -I\"/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/libs/glm-0.9.7.2\" -I\"/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/libs/sdw\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wall -Wextra -Wcast-align -Wfatal-errors -Werror=return-type -Wno-unused-parameter -Wno-unused-variable -Wno-ignored-attributes -O2 -fno-omit-frame-pointer -g -std=gnu++14 -o CMakeFiles/RedNoise.dir/libs/sdw/CanvasPoint.cpp.o -c \"/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/libs/sdw/CanvasPoint.cpp\"",
+  "file": "/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/libs/sdw/CanvasPoint.cpp"
+},
+{
+  "directory": "/Users/lybunvath/Desktop/Computer graphic/week 01/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.14_1/include/SDL2 -I\"/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/libs/glm-0.9.7.2\" -I\"/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/libs/sdw\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wall -Wextra -Wcast-align -Wfatal-errors -Werror=return-type -Wno-unused-parameter -Wno-unused-variable -Wno-ignored-attributes -O2 -fno-omit-frame-pointer -g -std=gnu++14 -o CMakeFiles/RedNoise.dir/libs/sdw/CanvasTriangle.cpp.o -c \"/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/libs/sdw/CanvasTriangle.cpp\"",
+  "file": "/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/libs/sdw/CanvasTriangle.cpp"
+},
+{
+  "directory": "/Users/lybunvath/Desktop/Computer graphic/week 01/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.14_1/include/SDL2 -I\"/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/libs/glm-0.9.7.2\" -I\"/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/libs/sdw\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wall -Wextra -Wcast-align -Wfatal-errors -Werror=return-type -Wno-unused-parameter -Wno-unused-variable -Wno-ignored-attributes -O2 -fno-omit-frame-pointer -g -std=gnu++14 -o CMakeFiles/RedNoise.dir/libs/sdw/Colour.cpp.o -c \"/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/libs/sdw/Colour.cpp\"",
+  "file": "/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/libs/sdw/Colour.cpp"
+},
+{
+  "directory": "/Users/lybunvath/Desktop/Computer graphic/week 01/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.14_1/include/SDL2 -I\"/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/libs/glm-0.9.7.2\" -I\"/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/libs/sdw\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wall -Wextra -Wcast-align -Wfatal-errors -Werror=return-type -Wno-unused-parameter -Wno-unused-variable -Wno-ignored-attributes -O2 -fno-omit-frame-pointer -g -std=gnu++14 -o CMakeFiles/RedNoise.dir/libs/sdw/DrawingWindow.cpp.o -c \"/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/libs/sdw/DrawingWindow.cpp\"",
+  "file": "/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/libs/sdw/DrawingWindow.cpp"
+},
+{
+  "directory": "/Users/lybunvath/Desktop/Computer graphic/week 01/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.14_1/include/SDL2 -I\"/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/libs/glm-0.9.7.2\" -I\"/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/libs/sdw\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wall -Wextra -Wcast-align -Wfatal-errors -Werror=return-type -Wno-unused-parameter -Wno-unused-variable -Wno-ignored-attributes -O2 -fno-omit-frame-pointer -g -std=gnu++14 -o CMakeFiles/RedNoise.dir/libs/sdw/ModelTriangle.cpp.o -c \"/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/libs/sdw/ModelTriangle.cpp\"",
+  "file": "/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/libs/sdw/ModelTriangle.cpp"
+},
+{
+  "directory": "/Users/lybunvath/Desktop/Computer graphic/week 01/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.14_1/include/SDL2 -I\"/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/libs/glm-0.9.7.2\" -I\"/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/libs/sdw\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wall -Wextra -Wcast-align -Wfatal-errors -Werror=return-type -Wno-unused-parameter -Wno-unused-variable -Wno-ignored-attributes -O2 -fno-omit-frame-pointer -g -std=gnu++14 -o CMakeFiles/RedNoise.dir/libs/sdw/RayTriangleIntersection.cpp.o -c \"/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/libs/sdw/RayTriangleIntersection.cpp\"",
+  "file": "/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/libs/sdw/RayTriangleIntersection.cpp"
+},
+{
+  "directory": "/Users/lybunvath/Desktop/Computer graphic/week 01/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.14_1/include/SDL2 -I\"/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/libs/glm-0.9.7.2\" -I\"/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/libs/sdw\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wall -Wextra -Wcast-align -Wfatal-errors -Werror=return-type -Wno-unused-parameter -Wno-unused-variable -Wno-ignored-attributes -O2 -fno-omit-frame-pointer -g -std=gnu++14 -o CMakeFiles/RedNoise.dir/libs/sdw/TextureMap.cpp.o -c \"/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/libs/sdw/TextureMap.cpp\"",
+  "file": "/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/libs/sdw/TextureMap.cpp"
+},
+{
+  "directory": "/Users/lybunvath/Desktop/Computer graphic/week 01/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.14_1/include/SDL2 -I\"/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/libs/glm-0.9.7.2\" -I\"/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/libs/sdw\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wall -Wextra -Wcast-align -Wfatal-errors -Werror=return-type -Wno-unused-parameter -Wno-unused-variable -Wno-ignored-attributes -O2 -fno-omit-frame-pointer -g -std=gnu++14 -o CMakeFiles/RedNoise.dir/libs/sdw/TexturePoint.cpp.o -c \"/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/libs/sdw/TexturePoint.cpp\"",
+  "file": "/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/libs/sdw/TexturePoint.cpp"
+},
+{
+  "directory": "/Users/lybunvath/Desktop/Computer graphic/week 01/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.14_1/include/SDL2 -I\"/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/libs/glm-0.9.7.2\" -I\"/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/libs/sdw\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wall -Wextra -Wcast-align -Wfatal-errors -Werror=return-type -Wno-unused-parameter -Wno-unused-variable -Wno-ignored-attributes -O2 -fno-omit-frame-pointer -g -std=gnu++14 -o CMakeFiles/RedNoise.dir/libs/sdw/Utils.cpp.o -c \"/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/libs/sdw/Utils.cpp\"",
+  "file": "/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/libs/sdw/Utils.cpp"
+},
+{
+  "directory": "/Users/lybunvath/Desktop/Computer graphic/week 01/build",
+  "command": "/usr/bin/clang++  -I/usr/local/Cellar/sdl2/2.0.14_1/include/SDL2 -I\"/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/libs/glm-0.9.7.2\" -I\"/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/libs/sdw\" -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wall -Wextra -Wcast-align -Wfatal-errors -Werror=return-type -Wno-unused-parameter -Wno-unused-variable -Wno-ignored-attributes -O2 -fno-omit-frame-pointer -g -std=gnu++14 -o CMakeFiles/RedNoise.dir/src/RedNoise.cpp.o -c \"/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/src/RedNoise.cpp\"",
+  "file": "/Users/lybunvath/Desktop/Computer graphic/week 01/RedNoise/src/RedNoise.cpp"
+}
+]
